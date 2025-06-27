@@ -1,0 +1,11 @@
+
+.teamcard{
+    border: 1px solid gray;
+    width: fit-content;
+    border-radius: 5px;
+}
+
+.teamcard .teamimg{
+    width: 300px;
+    height: 150px;
+}
