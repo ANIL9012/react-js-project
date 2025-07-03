@@ -1,5 +1,7 @@
 import { data } from "react-router-dom";
+
 import TeamCards from "../Components/Teamcard/teamcard";
+
 import Anilimg from "../../images/image-4.jpg";
 import Rahulimg from "../../images/image-5.jpg";
 import Anshuimg from "../../images/image-6.jpg";
