@@ -3,6 +3,8 @@
 import "./service.css"
 import serviceimg from "./../../images/image-4.jpg"
 
+import Bulbproject from "../Components/Events/OnClick-Event/onclick.js";
+
 function Service() {
   return (
     <>
@@ -19,6 +21,9 @@ function Service() {
           </a>
         </div>
       </div>
+
+      <Bulbproject/>
+
     </>
   );
 }

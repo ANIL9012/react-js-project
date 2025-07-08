@@ -1,0 +1,12 @@
+
+
+.text-bg-dark{
+    width: 18rem;
+    text-align: center;
+}
+
+.text-bg-dark .card-img-top{
+    margin: auto;
+    height: 200px;
+    width: 200px;
+}
