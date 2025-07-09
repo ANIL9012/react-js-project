@@ -7,8 +7,10 @@ function Form(){
     const [email,emailsetval]=useState("")
     const [password,passwordsetval]=useState("")
     const handleSubmit = (e) =>{
-        e.preventdefault();
-        console.log("Name:",name)
+        e.preventDefault();
+        console.log(`name :${name} 
+email:${email} 
+password:${password}`)
     }
     return(
         <>

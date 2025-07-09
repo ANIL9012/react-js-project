@@ -3,6 +3,7 @@
 import "./contact-us.css"
 
 import Form from "../Components/My-form/form";
+import Form2 from "../Components/My-form/form2";
 
 function Contact(){
     return(
@@ -14,6 +15,7 @@ function Contact(){
         </form>
 
         <Form/>
+        <Form2/>
 
         </>
     )

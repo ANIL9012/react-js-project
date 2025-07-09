@@ -1,11 +1,14 @@
 
-.teamcard{
+/* .teamcard{
     border: 1px solid gray;
-    width: fit-content;
     border-radius: 5px;
-}
+    display: flex;
+    flex-wrap: wrap;
+} */
 
-.teamcard .teamimg{
-    width: 300px;
-    height: 150px;
-}
+/* .teamcard .teamimg{
+    width: 200px;
+} */
+.card{
+    width: 200px;
+} 
