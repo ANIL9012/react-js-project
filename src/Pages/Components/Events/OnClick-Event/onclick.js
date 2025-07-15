@@ -20,7 +20,7 @@ function Bulbproject() {
       <div className="card text-bg-dark">
         <img src={image} className="card-img-top" alt="..." />
         <div className="card-body">
-          <h5 className="card-title">Card title</h5>
+          <h5 className="card-title">This is a Bulb Card</h5>
           <p className="card-text">
             Bulb Event card
           </p>
