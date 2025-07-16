@@ -4,6 +4,7 @@ import "./service.css"
 import serviceimg from "./../../images/image-4.jpg"
 
 import Bulbproject from "../Components/Events/OnClick-Event/onclick.js";
+import Crud from "../Components/Crud/Crud.js";
 
 function Service() {
   return (
@@ -23,6 +24,7 @@ function Service() {
       </div>
 
       <Bulbproject/>
+      <Crud/>
 
     </>
   );
