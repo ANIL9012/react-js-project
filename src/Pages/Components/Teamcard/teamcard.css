@@ -9,6 +9,7 @@
 /* .teamcard .teamimg{
     width: 200px;
 } */
-.card{
-    width: 200px;
+.teamCard{
+    width: 18rem;
+    /* height: 100%; */
 } 

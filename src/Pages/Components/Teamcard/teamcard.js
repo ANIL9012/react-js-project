@@ -5,7 +5,7 @@ function TeamCards(props) {
   const { Id, Name, Image, Title, Description } = props.Data;
 
   return (
-    <div className="card p-2 m-2 text-center shadow-sm">
+    <div className="card text-center shadow-sm teamCard h-100">
       <img
         className="teamimg img-fluid card-img-top"
         src={Image}

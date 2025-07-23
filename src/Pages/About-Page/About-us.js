@@ -3,6 +3,7 @@
 import "./About-us.css"
 
 import Aboutimg from "./../../images/image-1.jpg"
+import Api from "../Components/Api/Api";
 
 function About() {
   return (
@@ -20,6 +21,8 @@ function About() {
           </a>
         </div>
       </div>
+
+      <Api/>
     </>
   );
 }
