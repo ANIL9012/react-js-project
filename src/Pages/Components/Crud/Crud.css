@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.Maincontainer {
+  max-width: 600px;
+  margin: auto;
+  background: white;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.wrapper {
+  margin-top: 20px;
+  border: "1px solid #ccc";
+  padding: "10px";
+  margin-bottom: "10px";
+  border-radius: "8px";
+  position: "relative";
+}
+
+.wrapper2{
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+.wrapper2 button{
+  margin-right: 5px;
+}
